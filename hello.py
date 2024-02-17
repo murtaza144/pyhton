@@ -2,3 +2,4 @@
 print("Hello World! ")
 add = 2+5
 subr = 5-2
+print(changes done in loop)
